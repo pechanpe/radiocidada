@@ -55,7 +55,7 @@ of those sections to manage the look and feel of the site. */
 @font-face {
   font-family: 'MyFirstFont';
 
-  src: url('../fonts/amatic.ttf');
+  src: url('https://github.com/pechanpe/radiopossivel2/blob/master/fonts/amatic.ttf);
 }
 
 div {
@@ -69,7 +69,7 @@ div {
   }
   .navbar-default .navbar-nav>.active>a:hover {
    color: transparent;}
-   
+
    .navbar{
      padding: 0px;
    }
