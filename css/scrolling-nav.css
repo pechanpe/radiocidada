@@ -36,6 +36,7 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #fff;
+    background-image: url(https://media.giphy.com/media/NkkKrHU2wAin6/giphy.gif) repeat;
 }
 
 .about-section {
@@ -50,8 +51,4 @@ of those sections to manage the look and feel of the site. */
     padding-top: 150px;
     text-align: center;
     background: #fff;
-}
-
-body{
-  background-image: url(https://media.giphy.com/media/NkkKrHU2wAin6/giphy.gif);
 }
