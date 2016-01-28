@@ -52,3 +52,24 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #fff;
 }
+@font-face {
+  font-family: 'MyFirstFont';
+
+  src: url('../fonts/amatic.ttf');
+}
+
+div {
+   font-family: myFirstFont;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: transparent;
+    background: #eee url(https://media.giphy.com/media/10mzvEGrnhbcSA/giphy.gif);
+    background-size: contain;
+  }
+  .navbar-default .navbar-nav>.active>a:hover {
+   color: transparent;}
+   
+   .navbar{
+     padding: 0px;
+   }
